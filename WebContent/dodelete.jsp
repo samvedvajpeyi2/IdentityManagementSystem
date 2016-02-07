@@ -1,3 +1,10 @@
+<!--- This page actually runs the background sql to delete
+a user from the database.
+	
+	@author  SAMVED
+	
+---->
+
 <%@ page import ="java.sql.*" %> 
 <%@ page import ="javax.sql.*" %>
 <%@ include file="/db.jsp" %>

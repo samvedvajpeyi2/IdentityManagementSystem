@@ -1,3 +1,10 @@
+<!--- This page runs the sql queries required to
+edit or update a user.
+	
+	@author  SAMVED
+	
+---->
+
 <%@ page import ="java.sql.*" %> 
 <%@ page import ="javax.sql.*" %>
 <%@ include file="/db.jsp" %>

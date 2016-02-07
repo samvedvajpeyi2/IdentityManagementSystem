@@ -1,3 +1,10 @@
+<!--- This is the login page, user's credentials 
+are validated here.
+
+	@author  SAMVED
+	
+---->
+
 <%@ page import ="java.sql.*" %>
 <%@ page import ="javax.sql.*" %>
 <%@ include file="/db.jsp" %>

@@ -1,3 +1,10 @@
+<!--- This page displays the search results returned
+by the database and displays options to edit or delete them.
+	
+	@author  SAMVED
+	
+---->
+
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>
 <%@ page import ="java.sql.*" %> 

@@ -1,3 +1,10 @@
+<!--- This page pocesses the form posted in Add User page,
+runs the sql and inserts the user into table.
+	
+	@author  SAMVED
+	
+---->
+
 <%@ page import ="java.sql.*" %> 
 <%@ page import ="javax.sql.*" %>
 <%@ include file="/db.jsp" %>

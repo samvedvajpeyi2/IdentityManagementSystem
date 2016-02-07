@@ -1,3 +1,9 @@
+<!--- This page displays the list of users and give Edit option 
+to those users who have its permission.
+	
+	@author  SAMVED
+	
+---->
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>
 <%@ page import ="java.sql.*" %> 

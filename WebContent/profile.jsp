@@ -1,3 +1,10 @@
+<!--- This is the profile page where logged in
+user can see his/her profile details.
+	
+	@author  SAMVED
+	    
+---->
+
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>
 <%@ page import ="java.sql.*" %> 

@@ -1,3 +1,9 @@
+<!--- This page is to delete any user from database.
+	
+	@author  SAMVED
+	
+---->
+
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>
 <%@ page import ="java.sql.*" %> 

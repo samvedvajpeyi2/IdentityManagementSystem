@@ -1,3 +1,11 @@
+<!--- This page is used for taking inputs from
+	the user in order to  create a new user.
+	
+	@author  SAMVED
+	
+---->
+
+
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>
 <%@ page import ="java.sql.*" %> 

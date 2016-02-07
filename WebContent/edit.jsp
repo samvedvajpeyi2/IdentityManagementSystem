@@ -1,3 +1,10 @@
+<!--- This page allows admins to edit or update 
+existing users in the database.
+	
+	@author  SAMVED
+	
+---->
+
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>
 <%@ page import ="java.sql.*" %> 

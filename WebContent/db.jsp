@@ -1,3 +1,11 @@
+<!--- This page makes the connection with database, 
+this page is called in most of the pages where database access
+was required.
+	
+	@author  SAMVED
+	
+---->
+
 <%@ page import ="java.sql.*" %>
 <%@ page import ="javax.sql.*" %>
 <%

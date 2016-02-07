@@ -1,3 +1,10 @@
+<!--- This is the Main page of site, the home page, where
+all the menus are shown to users according to their permissions.
+	
+	@author  SAMVED
+	
+---->
+
 <!------- IMPORTING SQL LIBRARIES -------->
 <%@ page language="java" import="java.util.*" %>  
 <%@ page import ="java.sql.*" %> 
